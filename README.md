@@ -15,7 +15,7 @@ This project is a backend service for a Netflix-style application. It is built u
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/digitalwitchdemo/netflix_backend.git
+git clone https://github.com/igbafe/netflix_backend.git
 cd netflix_backend
 ```
 
